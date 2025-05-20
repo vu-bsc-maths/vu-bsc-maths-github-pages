@@ -20,8 +20,6 @@
 |                  | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems      | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems |
 |-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------|
 
----
-
 |-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------|
 |                 | Dynamical Systems          | Dynamical Systems                     | Dynamical Systems               | Dynamical Systems           | Dynamical Systems      | Dynamical Systems   | Dynamical Systems                |
 |                 | Complex Analysis           | Complex Analysis                      | Complex Analysis                | Complex Analysis            | Complex Analysis       | Complex Analysis    | Complex Analysis                 |
