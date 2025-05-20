@@ -1,5 +1,5 @@
----
-title: Welcome to the VU BSc Mathematics webpage
----
+<!-- --- -->
+<!-- title: Welcome to the VU BSc Mathematics webpage -->
+<!-- --- -->
 
-Welcome to the VU BSc Mathematics webpage. In this webpage
+<!-- Welcome to the VU BSc Mathematics webpage. In this webpage -->
