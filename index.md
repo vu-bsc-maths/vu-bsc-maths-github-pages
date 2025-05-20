@@ -10,6 +10,7 @@
 
 
 ** Year 2
+
 |             | LP1: Algebra and Geometry | LP2: Analysis and Dynamical Systems | LP3: Probability and Statistics | LP4: Biomedical Mathematics | LP5: Computer Science | LP6: Data Science | LP7: Optimisation and Economics |
 |-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------|
 |                  | Mathematical Statistics    | Mathematical Statistics               | Mathematical Statistics         | Mathematical Statistics     | Mathematical Statistics | Mathematical Statistics | Mathematical Statistics          |
