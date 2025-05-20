@@ -98,6 +98,7 @@
         <td>Operations Research 1</td>
     </tr>
     <tr>
+        <td colspan="8" style="border-top: 2px solid black; border-bottom: 2px solid black;"></td> 
         <td></td>
         <td>Math. Mod. of Stochastic Systems</td>
         <td>Math. Mod. of Stochastic Systems</td>
@@ -109,7 +110,6 @@
     </tr>
     <tr>
         <!-- <td colspan="8" style="border-top: 2px solid black; border-bottom: 2px solid black;"></td> <!-1- Thick horizontal separator -1-> -->
-        <td colspan="8" style="border-top: 2px solid black;"></td> <!-- Thick horizontal separator -->
     </tr>
     <tr>
         <td></td>
