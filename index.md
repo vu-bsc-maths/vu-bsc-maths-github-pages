@@ -97,16 +97,15 @@
         <td>Computer Programming</td>
         <td>Operations Research 1</td>
     </tr>
-    <tr style="border-top: 2px solid black; border-bottom: 2px solid black;>
-        <!-- <td colspan="8" style="border-top: 2px solid black; border-bottom: 2px solid black;"></td> --> 
-        <td></td>
-        <td>Math. Mod. of Stochastic Systems</td>
-        <td>Math. Mod. of Stochastic Systems</td>
-        <td>Math. Mod. of Stochastic Systems</td>
-        <td>Math. Mod. of Stochastic Systems</td>
-        <td>Math. Mod. of Stochastic Systems</td>
-        <td>Math. Mod. of Stochastic Systems</td>
-        <td>Math. Mod. of Stochastic Systems</td>
+    <tr>
+        <td style="border-top: 2px solid black; border-bottom: 2px solid black;"></td>
+        <td style="border-top: 2px solid black; border-bottom: 2px solid black;">Math. Mod. of Stochastic Systems</td>
+        <td style="border-top: 2px solid black; border-bottom: 2px solid black;">Math. Mod. of Stochastic Systems</td>
+        <td style="border-top: 2px solid black; border-bottom: 2px solid black;">Math. Mod. of Stochastic Systems</td>
+        <td style="border-top: 2px solid black; border-bottom: 2px solid black;">Math. Mod. of Stochastic Systems</td>
+        <td style="border-top: 2px solid black; border-bottom: 2px solid black;">Math. Mod. of Stochastic Systems</td>
+        <td style="border-top: 2px solid black; border-bottom: 2px solid black;">Math. Mod. of Stochastic Systems</td>
+        <td style="border-top: 2px solid black; border-bottom: 2px solid black;">Math. Mod. of Stochastic Systems</td>
     </tr>
     <tr>
         <!-- <td colspan="8" style="border-top: 2px solid black; border-bottom: 2px solid black;"></td> <!-1- Thick horizontal separator -1-> -->
