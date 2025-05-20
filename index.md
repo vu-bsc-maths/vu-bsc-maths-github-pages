@@ -184,14 +184,14 @@
         <td>Mathematical Economics 1</td>
     </tr>
     <tr>
-        <td  style=" border-bottom: 2px solid black;"></td>
-        <td  style=" border-bottom: 2px solid black;">Number Theory</td>
-        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
-        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
-        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
-        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
-        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
-        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
+        <td></td>
+        <td>Number Theory</td>
+        <td>Markov Chains</td>
+        <td>Markov Chains</td>
+        <td>Markov Chains</td>
+        <td>Markov Chains</td>
+        <td>Markov Chains</td>
+        <td>Markov Chains</td>
     </tr>
     <tr>
         <td ><strong>Periods 1-3, no clashes in the schedule</strong></td>
