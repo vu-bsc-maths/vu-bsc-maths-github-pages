@@ -22,24 +22,24 @@
 
 <!-- **Year 3** -->
 
-|             | LP1: Algebra and Geometry | LP2: Analysis and Dynamical Systems | LP3: Probability and Statistics | LP4: Biomedical Mathematics | LP5: Computer Science | LP6: Data Science | LP7: Optimisation and Economics |
-|-------------|---------------------------|-------------------------------------|--------------------------------|----------------------------|----------------------|-------------------|----------------------------------|
-|                                                      | Differential Geometry     | Differential Geometry                | Biomedical mathematics         | Biomedical mathematics      | Data structures & algorithms (AI)    | Data structures & algorithms (AI)     | Mathematical Economics 1           |
-|                                                      | Number Theory             | Markov Chains                       | Markov Chains                  | Markov Chains              | Markov Chains                        | Markov Chains                         | Markov Chains                      |
-|  **Periods 1-3**, no clashes in the schedule         | Measure Theory            | Measure Theory                      | Measure Theory                 | Mech. And Term. of the cell | Equational Programming                | Biomedical mathematics                | Information Retrieval              |
-|                                                      | Nonlinear Dynamical Systems | Nonlinear Dynamical Systems        | Nonlinear Dynamical Systems    | Mathematics for Machine Learning | Project Computer Assisted Proof       | Project Computer Assisted Proof       |                                     |
-| **Period 1-3**, there may be clashes in the schedule |                           | Biomedical mathematics                   |                            | From protein to cell        | Nonlinear Dynamical Systems         | Data Analytics and Privacy | |
-|                                                      |                           |                                          |                            | Metabolomics                |                                     |                            | |
-|-------------|---------------------------|-------------------------------------|--------------------------------|----------------------------|----------------------|-------------------|----------------------------------|
-|                                               | Differential Topology        | Functional Analysis                | Partial Differential Equations   | Mathematical Statistics 2     | Databases                        | Machine Learning                  | Mathematical Statistics 2         |
-|  **Periods 4-6** no clashes in the schedule   | History of Science           | History of Science                  | History of Science               | History of Science            | History of Science               | History of Science               | History of Science                |
-|                                       | Philosophy and Ethics        | Philosophy and Ethics               | Philosophy and Ethics            | Philosophy and Ethics         | Bachelor project in Mathematics   | Bachelor project in Mathematics    | Bachelor project in Mathematics    |
-|                                       | Bachelor project in Mathematics | Bachelor project in Mathematics    | Bachelor project in Mathematics   | Bachelor project in Mathematics |                                |                                  |                                    |
-|-------------|---------------------------|-------------------------------------|--------------------------------|----------------------------|----------------------|-------------------|----------------------------------|
-| **Period 4-6** there may be clashes in the schedule | Functional Analysis              | Applied Analysis: Financial Maths    | Machine Learning                | Machine Learning              | Partial Differential Equations    | Applied Analysis: Financial Maths | Mathematical Economics 2         |
-|                                                     |                                  |                                      | Applied Analysis: Financial Maths |                             | Automata and Complexity           | Complex Analysis                  | Operations Research 3            |
-|                                                     |                                  |                                      | Partial Differential Equations |                             |                                   |                                   |                                  |
-|-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------|
+<!-- |             | LP1: Algebra and Geometry | LP2: Analysis and Dynamical Systems | LP3: Probability and Statistics | LP4: Biomedical Mathematics | LP5: Computer Science | LP6: Data Science | LP7: Optimisation and Economics | -->
+<!-- |-------------|---------------------------|-------------------------------------|--------------------------------|----------------------------|----------------------|-------------------|----------------------------------| -->
+<!-- |                                                      | Differential Geometry     | Differential Geometry                | Biomedical mathematics         | Biomedical mathematics      | Data structures & algorithms (AI)    | Data structures & algorithms (AI)     | Mathematical Economics 1           | -->
+<!-- |                                                      | Number Theory             | Markov Chains                       | Markov Chains                  | Markov Chains              | Markov Chains                        | Markov Chains                         | Markov Chains                      | -->
+<!-- |  **Periods 1-3**, no clashes in the schedule         | Measure Theory            | Measure Theory                      | Measure Theory                 | Mech. And Term. of the cell | Equational Programming                | Biomedical mathematics                | Information Retrieval              | -->
+<!-- |                                                      | Nonlinear Dynamical Systems | Nonlinear Dynamical Systems        | Nonlinear Dynamical Systems    | Mathematics for Machine Learning | Project Computer Assisted Proof       | Project Computer Assisted Proof       |                                     | -->
+<!-- | **Period 1-3**, there may be clashes in the schedule |                           | Biomedical mathematics                   |                            | From protein to cell        | Nonlinear Dynamical Systems         | Data Analytics and Privacy | | -->
+<!-- |                                                      |                           |                                          |                            | Metabolomics                |                                     |                            | | -->
+<!-- |-------------|---------------------------|-------------------------------------|--------------------------------|----------------------------|----------------------|-------------------|----------------------------------| -->
+<!-- |                                               | Differential Topology        | Functional Analysis                | Partial Differential Equations   | Mathematical Statistics 2     | Databases                        | Machine Learning                  | Mathematical Statistics 2         | -->
+<!-- |  **Periods 4-6** no clashes in the schedule   | History of Science           | History of Science                  | History of Science               | History of Science            | History of Science               | History of Science               | History of Science                | -->
+<!-- |                                       | Philosophy and Ethics        | Philosophy and Ethics               | Philosophy and Ethics            | Philosophy and Ethics         | Bachelor project in Mathematics   | Bachelor project in Mathematics    | Bachelor project in Mathematics    | -->
+<!-- |                                       | Bachelor project in Mathematics | Bachelor project in Mathematics    | Bachelor project in Mathematics   | Bachelor project in Mathematics |                                |                                  |                                    | -->
+<!-- |-------------|---------------------------|-------------------------------------|--------------------------------|----------------------------|----------------------|-------------------|----------------------------------| -->
+<!-- | **Period 4-6** there may be clashes in the schedule | Functional Analysis              | Applied Analysis: Financial Maths    | Machine Learning                | Machine Learning              | Partial Differential Equations    | Applied Analysis: Financial Maths | Mathematical Economics 2         | -->
+<!-- |                                                     |                                  |                                      | Applied Analysis: Financial Maths |                             | Automata and Complexity           | Complex Analysis                  | Operations Research 3            | -->
+<!-- |                                                     |                                  |                                      | Partial Differential Equations |                             |                                   |                                   |                                  | -->
+<!-- |-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------| -->
 
 
 **Year 2**
@@ -164,14 +164,14 @@
 
 <table>
     <tr>
-        <th></th>
-        <th>LP1: Algebra and Geometry</th>
-        <th>LP2: Analysis and Dynamical Systems</th>
-        <th>LP3: Probability and Statistics</th>
-        <th>LP4: Biomedical Mathematics</th>
-        <th>LP5: Computer Science</th>
-        <th>LP6: Data Science</th>
-        <th>LP7: Optimisation and Economics</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;"></th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP1: Algebra and Geometry</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP2: Analysis and Dynamical Systems</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP3: Probability and Statistics</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP4: Biomedical Mathematics</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP5: Computer Science</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP6: Data Science</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP7: Optimisation and Economics</th>
     </tr>
     <tr>
         <td></td>
@@ -224,17 +224,14 @@
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Metabolomics</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td colspan="8" style="border-top: 2px solid black; border-bottom: 2px solid black;"></td> <!-- Thick horizontal separator -->
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;">Metabolomics</td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
     </tr>
     <tr>
         <td></td>
@@ -267,17 +264,14 @@
         <td>Bachelor project in Mathematics</td>
     </tr>
     <tr>
-        <td></td>
-        <td>Bachelor project in Mathematics</td>
-        <td>Bachelor project in Mathematics</td>
-        <td>Bachelor project in Mathematics</td>
-        <td>Bachelor project in Mathematics</td>
-        <td></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td colspan="8" style="border-top: 2px solid black; border-bottom: 2px solid black;"></td> <!-- Thick horizontal separator -->
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;">Bachelor project in Mathematics</td>
+        <td style=" border-bottom: 2px solid black;">Bachelor project in Mathematics</td>
+        <td style=" border-bottom: 2px solid black;">Bachelor project in Mathematics</td>
+        <td style=" border-bottom: 2px solid black;">Bachelor project in Mathematics</td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
     </tr>
     <tr>
         <td><strong>Period 4-6</strong> there may be clashes in the schedule</td>
@@ -300,13 +294,13 @@
         <td>Operations Research 3</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Partial Differential Equations</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;">Partial Differential Equations</td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;"></td>
     </tr>
 </table>
