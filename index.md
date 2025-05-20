@@ -227,8 +227,8 @@
         <td style=" border-bottom: 2px solid black;"></td>
         <td style=" border-bottom: 2px solid black;"></td>
         <td style=" border-bottom: 2px solid black;"></td>
-        <td style=" border-bottom: 2px solid black;">Metabolomics</td>
         <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;">Metabolomics</td>
         <td style=" border-bottom: 2px solid black;"></td>
         <td style=" border-bottom: 2px solid black;"></td>
         <td style=" border-bottom: 2px solid black;"></td>
