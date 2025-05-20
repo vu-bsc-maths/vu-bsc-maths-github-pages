@@ -18,10 +18,7 @@
 |                  | Fourier Analysis           | Fourier Analysis                      | Fourier Analysis                | Fourier Analysis            | Fourier Analysis       | Fourier Analysis    | Fourier Analysis                 |
 |  **Periods 1-3** | Rings and Fields           | Rings and Fields                      | Rings and Fields                | Rings and Fields            | Computer Programming    | Computer Programming  | Operations Research 1            |
 |                  | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems      | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems |
-|-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------|
-
-|             |                           |                                     |                                 |                             |                       |                   |                                 |
-|-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------|
+|  ****   |  ****   |   ****   |   ****   |   ****   |   ****   |   ****   |   ****   | 
 |                 | Dynamical Systems          | Dynamical Systems                     | Dynamical Systems               | Dynamical Systems           | Dynamical Systems      | Dynamical Systems   | Dynamical Systems                |
 |                 | Complex Analysis           | Complex Analysis                      | Complex Analysis                | Complex Analysis            | Complex Analysis       | Complex Analysis    | Complex Analysis                 |
 | **Periods 4-6** | Topology                  | Topology                             | Topology                        | Biochemistry                | Computer Networks      | Data Engineering      | Operations Research 2           |
