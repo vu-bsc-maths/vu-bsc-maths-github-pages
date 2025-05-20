@@ -48,14 +48,14 @@
 
 <table>
     <tr>
-        <th style=" border-bottom: 2px solid black;"></th>
-        <th style=" border-bottom: 2px solid black;">LP1: Algebra and Geometry</th>
-        <th style=" border-bottom: 2px solid black;">LP2: Analysis and Dynamical Systems</th>
-        <th style=" border-bottom: 2px solid black;">LP3: Probability and Statistics</th>
-        <th style=" border-bottom: 2px solid black;">LP4: Biomedical Mathematics</th>
-        <th style=" border-bottom: 2px solid black;">LP5: Computer Science</th>
-        <th style=" border-bottom: 2px solid black;">LP6: Data Science</th>
-        <th style=" border-bottom: 2px solid black;">LP7: Optimisation and Economics</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;"></th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP1: Algebra and Geometry</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP2: Analysis and Dynamical Systems</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP3: Probability and Statistics</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP4: Biomedical Mathematics</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP5: Computer Science</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP6: Data Science</th>
+        <th style="border-top: 2px solid black; border-bottom: 2px solid black;">LP7: Optimisation and Economics</th>
     </tr>
     <tr>
         <td></td>
@@ -151,14 +151,14 @@
         <td>Statistical Data Analysis</td>
     </tr>
     <tr>
-        <td></td>
-        <td>Elements of Geometry</td>
-        <td>Probab. Forecast. For Dynamical Systems</td>
-        <td>Probab. Forecast. For Dynamical Systems</td>
-        <td>Probab. Forecast. For Dynamical Systems</td>
-        <td>Probab. Forecast. For Dynamical Systems</td>
-        <td>Probab. Forecast. For Dynamical Systems</td>
-        <td>Probab. Forecast. For Dynamical Systems</td>
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;">Elements of Geometry</td>
+        <td style=" border-bottom: 2px solid black;">Probab. Forecast. For Dynamical Systems</td>
+        <td style=" border-bottom: 2px solid black;">Probab. Forecast. For Dynamical Systems</td>
+        <td style=" border-bottom: 2px solid black;">Probab. Forecast. For Dynamical Systems</td>
+        <td style=" border-bottom: 2px solid black;">Probab. Forecast. For Dynamical Systems</td>
+        <td style=" border-bottom: 2px solid black;">Probab. Forecast. For Dynamical Systems</td>
+        <td style=" border-bottom: 2px solid black;">Probab. Forecast. For Dynamical Systems</td>
     </tr>
 </table>
 
