@@ -44,4 +44,8 @@
 |                                       | Philosophy and Ethics        | Philosophy and Ethics               | Philosophy and Ethics            | Philosophy and Ethics         | Bachelor project in Mathematics   | Bachelor project in Mathematics    | Bachelor project in Mathematics    |
 |                                       | Bachelor project in Mathematics | Bachelor project in Mathematics    | Bachelor project in Mathematics   | Bachelor project in Mathematics |                                |                                  |                                    |
 |  ** --- **   |  ** --- **   |   ** --- **   |   ** --- **   |   ** --- **   |   ** --- **   |   ** --- **   |   ** --- **   | 
+| **Period 4-6** there may be clashes in the schedule | Functional Analysis              | Applied Analysis: Financial Maths    | Machine Learning                | Machine Learning              | Partial Differential Equations    | Applied Analysis: Financial Maths | Mathematical Economics 2         |
+|                                                     |                                  |                                      | Applied Analysis: Financial Maths |                             | Automata and Complexity           | Complex Analysis                  | Operations Research 3            |
+|                                                     |                                  |                                      | Partial Differential Equations |                             |                                   |                                   |                                  |
+
 
