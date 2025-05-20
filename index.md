@@ -97,8 +97,8 @@
         <td>Computer Programming</td>
         <td>Operations Research 1</td>
     </tr>
-    <tr>
-        <td colspan="8" style="border-top: 2px solid black; border-bottom: 2px solid black;"></td> 
+    <tr style="border-top: 2px solid black; border-bottom: 2px solid black;>
+        <!-- <td colspan="8" style="border-top: 2px solid black; border-bottom: 2px solid black;"></td> --> 
         <td></td>
         <td>Math. Mod. of Stochastic Systems</td>
         <td>Math. Mod. of Stochastic Systems</td>
