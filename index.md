@@ -184,37 +184,37 @@
         <td>Mathematical Economics 1</td>
     </tr>
     <tr>
-        <td></td>
-        <td>Number Theory</td>
-        <td>Markov Chains</td>
-        <td>Markov Chains</td>
-        <td>Markov Chains</td>
-        <td>Markov Chains</td>
-        <td>Markov Chains</td>
-        <td>Markov Chains</td>
+        <td  style=" border-bottom: 2px solid black;"></td>
+        <td  style=" border-bottom: 2px solid black;">Number Theory</td>
+        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
+        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
+        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
+        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
+        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
+        <td  style=" border-bottom: 2px solid black;">Markov Chains</td>
     </tr>
     <tr>
-        <td><strong>Periods 1-3</strong>, no clashes in the schedule</td>
-        <td>Measure Theory</td>
-        <td>Measure Theory</td>
-        <td>Measure Theory</td>
-        <td>Mech. And Term. of the cell</td>
-        <td>Equational Programming</td>
-        <td>Biomedical mathematics</td>
-        <td>Information Retrieval</td>
+        <td ><strong>Periods 1-3, no clashes in the schedule</strong></td>
+        <td >Measure Theory</td>
+        <td >Measure Theory</td>
+        <td >Measure Theory</td>
+        <td >Mech. And Term. of the cell</td>
+        <td >Equational Programming</td>
+        <td >Biomedical mathematics</td>
+        <td >Information Retrieval</td>
     </tr>
     <tr>
-        <td></td>
-        <td>Nonlinear Dynamical Systems</td>
-        <td>Nonlinear Dynamical Systems</td>
-        <td>Nonlinear Dynamical Systems</td>
-        <td>Mathematics for Machine Learning</td>
-        <td>Project Computer Assisted Proof</td>
-        <td>Project Computer Assisted Proof</td>
-        <td></td>
+        <td  style=" border-bottom: 2px solid black;"></td>
+        <td  style=" border-bottom: 2px solid black;">Nonlinear Dynamical Systems</td>
+        <td  style=" border-bottom: 2px solid black;">Nonlinear Dynamical Systems</td>
+        <td  style=" border-bottom: 2px solid black;">Nonlinear Dynamical Systems</td>
+        <td  style=" border-bottom: 2px solid black;">Mathematics for Machine Learning</td>
+        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted Proof</td>
+        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted Proof</td>
+        <td  style=" border-bottom: 2px solid black;"></td>
     </tr>
     <tr>
-        <td><strong>Period 1-3</strong>, there may be clashes in the schedule</td>
+        <td><strong>Period 1-3, there may be clashes in the schedule</strong></td>
         <td></td>
         <td>Biomedical mathematics</td>
         <td></td>
@@ -244,7 +244,7 @@
         <td>Mathematical Statistics 2</td>
     </tr>
     <tr>
-        <td><strong>Periods 4-6</strong> no clashes in the schedule</td>
+        <td><strong>Periods 4-6 no clashes in the schedule</strong></td>
         <td>History of Science</td>
         <td>History of Science</td>
         <td>History of Science</td>
@@ -274,7 +274,7 @@
         <td style=" border-bottom: 2px solid black;"></td>
     </tr>
     <tr>
-        <td><strong>Period 4-6</strong> there may be clashes in the schedule</td>
+        <td><strong>Period 4-6 there may be clashes in the schedule</strong></td>
         <td>Functional Analysis</td>
         <td>Applied Analysis: Financial Maths</td>
         <td>Machine Learning</td>
