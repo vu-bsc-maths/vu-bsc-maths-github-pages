@@ -20,7 +20,7 @@
 |                  | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems      | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems |
 |-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------|
 
-|             | LP1: Algebra and Geometry | LP2: Analysis and Dynamical Systems | LP3: Probability and Statistics | LP4: Biomedical Mathematics | LP5: Computer Science | LP6: Data Science | LP7: Optimisation and Economics |
+|             |                           |                                     |                                 |                             |                       |                   |                                 |
 |-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------|
 |                 | Dynamical Systems          | Dynamical Systems                     | Dynamical Systems               | Dynamical Systems           | Dynamical Systems      | Dynamical Systems   | Dynamical Systems                |
 |                 | Complex Analysis           | Complex Analysis                      | Complex Analysis                | Complex Analysis            | Complex Analysis       | Complex Analysis    | Complex Analysis                 |
