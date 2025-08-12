@@ -85,7 +85,7 @@
         <td>Complex Analysis</td>
         <td>Complex Analysis</td>
         <td>Complex Analysis</td>
-        <td>Datasets</td>
+        <td>Databases</td>
         <td>Complex Analysis</td>
     </tr>
     <tr>
