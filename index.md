@@ -201,27 +201,29 @@
         <td >Mech. And Term. of the cell</td>
         <td >Equational Programming</td>
         <td >Biomedical mathematics</td>
-        <td >Information Retrieval</td>
+        <td >Measure Theory</td>
     </tr>
     <tr>
-        <td  style=" border-bottom: 2px solid black;"></td>
-        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted ProofNonlinear Dynamical Systems</td>
-        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted ProofNonlinear Dynamical Systems</td>
-        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted ProofNonlinear Dynamical Systems</td>
-        <td  style=" border-bottom: 2px solid black;">Mathematics for Machine Learning</td>
-        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted Proof</td>
-        <td  style=" border-bottom: 2px solid black;">Mathematics for Machine Learning</td>
-        <td  style=" border-bottom: 2px solid black;"></td>
+        <td></td>
+        <td>Nonlinear Dynamical Systems</td>
+        <td>Nonlinear Dynamical Systems</td>
+        <td>Nonlinear Dynamical Systems</td>
+        <td>Nonlinear Dynamical Systems</td>
+        <td>Smart Systems Engineering</td>
+        <td>Information Retrieval</td>
+        <td>Nonlinear Dynamical Systems</td>
+        <td></td>
     </tr>
     <tr>
-        <td  style=" border-bottom: 2px solid black;"></td>
-        <td  style=" border-bottom: 2px solid black;">Nonlinear Dynamical Systems</td>
-        <td  style=" border-bottom: 2px solid black;">Nonlinear Dynamical Systems</td>
-        <td  style=" border-bottom: 2px solid black;">Nonlinear Dynamical Systems</td>
-        <td  style=" border-bottom: 2px solid black;">Mathematics for Machine Learning</td>
-        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted Proof</td>
-        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted Proof</td>
-        <td  style=" border-bottom: 2px solid black;"></td>
+        <!-- <td  style=" border-bottom: 2px solid black;"></td> -->
+        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;">Project Computer Assisted Proof</td>
+        <td style=" border-bottom: 2px solid black;">Project Computer Assisted Proof</td>
+        <td style=" border-bottom: 2px solid black;">Project Computer Assisted Proof</td>
+        <td style=" border-bottom: 2px solid black;">Mathematics for Machine Learning</td>
+        <td style=" border-bottom: 2px solid black;">Project Computer Assisted Proof</td>
+        <td style=" border-bottom: 2px solid black;">Mathematics for Machine Learning</td>
+        <td style=" border-bottom: 2px solid black;">Project Computer Assisted Proof</td>
     </tr>
     <tr>
         <td><strong>Period 1-3, there may be clashes in the schedule</strong></td>
@@ -254,6 +256,16 @@
         <td>Mathematical Statistics 2</td>
     </tr>
     <tr>
+        <td></td>
+        <td>Partial Differential Equations</td>
+        <td>Partial Differential Equations</td>
+        <td>Mathematical Statistics 2</td>
+        <td>Mathematical Statistics 2</td>
+        <td>Mathematical Statistics 2</td>
+        <td>Machine Learning</td>
+        <td>Applied Analysis: Financial Mathematics</td>
+    </tr>
+    <tr>
         <td><strong>Periods 4-6 no clashes in the schedule</strong></td>
         <td>History of Science</td>
         <td>History of Science</td>
@@ -269,9 +281,9 @@
         <td>Philosophy and Ethics</td>
         <td>Philosophy and Ethics</td>
         <td>Philosophy and Ethics</td>
-        <td>Bachelor project in Mathematics</td>
-        <td>Bachelor project in Mathematics</td>
-        <td>Bachelor project in Mathematics</td>
+        <td>Philosophy and Ethics</td>
+        <td>Philosophy and Ethics</td>
+        <td>Philosophy and Ethics</td>
     </tr>
     <tr>
         <td style=" border-bottom: 2px solid black;"></td>
@@ -279,9 +291,9 @@
         <td style=" border-bottom: 2px solid black;">Bachelor project in Mathematics</td>
         <td style=" border-bottom: 2px solid black;">Bachelor project in Mathematics</td>
         <td style=" border-bottom: 2px solid black;">Bachelor project in Mathematics</td>
-        <td style=" border-bottom: 2px solid black;"></td>
-        <td style=" border-bottom: 2px solid black;"></td>
-        <td style=" border-bottom: 2px solid black;"></td>
+        <td style=" border-bottom: 2px solid black;">Bachelor project in Mathematics</td>
+        <td style=" border-bottom: 2px solid black;">Bachelor project in Mathematics</td>
+        <td style=" border-bottom: 2px solid black;">Bachelor project in Mathematics</td>
     </tr>
     <tr>
         <td><strong>Period 4-6 there may be clashes in the schedule</strong></td>
