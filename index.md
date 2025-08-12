@@ -205,6 +205,16 @@
     </tr>
     <tr>
         <td  style=" border-bottom: 2px solid black;"></td>
+        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted ProofNonlinear Dynamical Systems</td>
+        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted ProofNonlinear Dynamical Systems</td>
+        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted ProofNonlinear Dynamical Systems</td>
+        <td  style=" border-bottom: 2px solid black;">Mathematics for Machine Learning</td>
+        <td  style=" border-bottom: 2px solid black;">Project Computer Assisted Proof</td>
+        <td  style=" border-bottom: 2px solid black;">Mathematics for Machine Learning</td>
+        <td  style=" border-bottom: 2px solid black;"></td>
+    </tr>
+    <tr>
+        <td  style=" border-bottom: 2px solid black;"></td>
         <td  style=" border-bottom: 2px solid black;">Nonlinear Dynamical Systems</td>
         <td  style=" border-bottom: 2px solid black;">Nonlinear Dynamical Systems</td>
         <td  style=" border-bottom: 2px solid black;">Nonlinear Dynamical Systems</td>
