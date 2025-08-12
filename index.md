@@ -2,46 +2,6 @@
 <!-- title: Welcome to the VU BSc Mathematics webpage -->
 <!-- --- -->
 
-
-<!-- **Year 2** -->
-
-<!--              | LP1: Algebra and Geometry | LP2: Analysis and Dynamical Systems | LP3: Probability and Statistics | LP4: Biomedical Mathematics | LP5: Computer Science | LP6: Data Science | LP7: Optimisation and Economics | -->
-<!-- |-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------| -->
-<!-- |                  | Mathematical Statistics    | Mathematical Statistics               | Mathematical Statistics         | Mathematical Statistics     | Mathematical Statistics | Mathematical Statistics | Mathematical Statistics          | -->
-<!-- |                  | Numerical Methods          | Numerical Methods                     | Numerical Methods               | Numerical Methods           | Numerical Methods      | Numerical Methods   | Numerical Methods                | -->
-<!-- |  **Periods 1-3** | Fourier Analysis           | Fourier Analysis                      | Fourier Analysis                | Fourier Analysis            | Fourier Analysis       | Fourier Analysis    | Fourier Analysis                 | -->
-<!-- |                  | Rings and Fields           | Rings and Fields                      | Rings and Fields                | Rings and Fields            | Computer Programming    | Computer Programming  | Operations Research 1            | -->
-<!-- |                  | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems      | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | Math. Mod. of Stochastic Systems | -->
-<!-- |  ** --- **   |  ** --- **   |   ** --- **   |   ** --- **   |   ** --- **   |   ** --- **   |   ** --- **   |   ** --- **   | --> 
-<!-- |                 | Dynamical Systems          | Dynamical Systems                     | Dynamical Systems               | Dynamical Systems           | Dynamical Systems      | Dynamical Systems   | Dynamical Systems                | -->
-<!-- |                 | Complex Analysis           | Complex Analysis                      | Complex Analysis                | Complex Analysis            | Complex Analysis       | Complex Analysis    | Complex Analysis                 | -->
-<!-- | **Periods 4-6** | Topology                  | Topology                             | Topology                        | Biochemistry                | Computer Networks      | Data Engineering      | Operations Research 2           | -->
-<!-- |                 | Galois Theory             | Statistical Data Analysis            | Statistical Data Analysis       | Statistical Data Analysis    | Statistical Data Analysis | Statistical Data Analysis | Statistical Data Analysis         | -->
-<!-- |                 | Elements of Geometry       | Probab. Forecast. For Dynamical Systems | Probab. Forecast. For Dynamical Systems | Probab. Forecast. For Dynamical Systems | Probab. Forecast. For Dynamical Systems | Probab. Forecast. For Dynamical Systems | Probab. Forecast. For Dynamical Systems | -->
-<!-- |-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------| -->
-
-<!-- **Year 3** -->
-
-<!-- |             | LP1: Algebra and Geometry | LP2: Analysis and Dynamical Systems | LP3: Probability and Statistics | LP4: Biomedical Mathematics | LP5: Computer Science | LP6: Data Science | LP7: Optimisation and Economics | -->
-<!-- |-------------|---------------------------|-------------------------------------|--------------------------------|----------------------------|----------------------|-------------------|----------------------------------| -->
-<!-- |                                                      | Differential Geometry     | Differential Geometry                | Biomedical mathematics         | Biomedical mathematics      | Data structures & algorithms (AI)    | Data structures & algorithms (AI)     | Mathematical Economics 1           | -->
-<!-- |                                                      | Number Theory             | Markov Chains                       | Markov Chains                  | Markov Chains              | Markov Chains                        | Markov Chains                         | Markov Chains                      | -->
-<!-- |  **Periods 1-3**, no clashes in the schedule         | Measure Theory            | Measure Theory                      | Measure Theory                 | Mech. And Term. of the cell | Equational Programming                | Biomedical mathematics                | Information Retrieval              | -->
-<!-- |                                                      | Nonlinear Dynamical Systems | Nonlinear Dynamical Systems        | Nonlinear Dynamical Systems    | Mathematics for Machine Learning | Project Computer Assisted Proof       | Project Computer Assisted Proof       |                                     | -->
-<!-- | **Period 1-3**, there may be clashes in the schedule |                           | Biomedical mathematics                   |                            | From protein to cell        | Nonlinear Dynamical Systems         | Data Analytics and Privacy | | -->
-<!-- |                                                      |                           |                                          |                            | Metabolomics                |                                     |                            | | -->
-<!-- |-------------|---------------------------|-------------------------------------|--------------------------------|----------------------------|----------------------|-------------------|----------------------------------| -->
-<!-- |                                               | Differential Topology        | Functional Analysis                | Partial Differential Equations   | Mathematical Statistics 2     | Databases                        | Machine Learning                  | Mathematical Statistics 2         | -->
-<!-- |  **Periods 4-6** no clashes in the schedule   | History of Science           | History of Science                  | History of Science               | History of Science            | History of Science               | History of Science               | History of Science                | -->
-<!-- |                                       | Philosophy and Ethics        | Philosophy and Ethics               | Philosophy and Ethics            | Philosophy and Ethics         | Bachelor project in Mathematics   | Bachelor project in Mathematics    | Bachelor project in Mathematics    | -->
-<!-- |                                       | Bachelor project in Mathematics | Bachelor project in Mathematics    | Bachelor project in Mathematics   | Bachelor project in Mathematics |                                |                                  |                                    | -->
-<!-- |-------------|---------------------------|-------------------------------------|--------------------------------|----------------------------|----------------------|-------------------|----------------------------------| -->
-<!-- | **Period 4-6** there may be clashes in the schedule | Functional Analysis              | Applied Analysis: Financial Maths    | Machine Learning                | Machine Learning              | Partial Differential Equations    | Applied Analysis: Financial Maths | Mathematical Economics 2         | -->
-<!-- |                                                     |                                  |                                      | Applied Analysis: Financial Maths |                             | Automata and Complexity           | Complex Analysis                  | Operations Research 3            | -->
-<!-- |                                                     |                                  |                                      | Partial Differential Equations |                             |                                   |                                   |                                  | -->
-<!-- |-------------|---------------------------|--------------------------------------|---------------------------------|----------------------------|----------------------|-------------------|----------------------------------| -->
-
-
 **YEAR 2**
 
 <table>
@@ -90,7 +50,7 @@
         <td>Rings and Fields</td>
         <td>Rings and Fields</td>
         <td>Rings and Fields</td>
-        <td>Rings and Fields</td>
+        <td>Genetics</td>
         <td>Computer Programming</td>
         <td>Computer Programming</td>
         <td>Operations Research 1</td>
@@ -125,7 +85,7 @@
         <td>Complex Analysis</td>
         <td>Complex Analysis</td>
         <td>Complex Analysis</td>
-        <td>Complex Analysis</td>
+        <td>Datasets</td>
         <td>Complex Analysis</td>
     </tr>
     <tr>
@@ -249,8 +209,8 @@
         <td></td>
         <td>Differential Topology</td>
         <td>Functional Analysis</td>
+        <td>Functional Analysis</td>
         <td>Partial Differential Equations</td>
-        <td>Mathematical Statistics 2</td>
         <td>Databases</td>
         <td>Machine Learning</td>
         <td>Mathematical Statistics 2</td>
@@ -262,7 +222,7 @@
         <td>Mathematical Statistics 2</td>
         <td>Mathematical Statistics 2</td>
         <td>Mathematical Statistics 2</td>
-        <td>Machine Learning</td>
+        <td>Mathematical Statistics 2</td>
         <td>Applied Analysis: Financial Mathematics</td>
     </tr>
     <tr>
